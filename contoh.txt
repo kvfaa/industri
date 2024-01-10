@@ -1,0 +1,13 @@
+git init 
+git add namafile
+git commit -m "pesan"
+git push -u origin main
+git pull
+git clone linkrepo
+
+zxcizjxcjizxc
+xcxvcx
+vcx
+vcxv
+cxv
+cxvv
